@@ -1,6 +1,6 @@
 # Third-party components
 
-Aperture2 uses the following source checkouts as Git submodules. Their exact commits
+Aperture Pi uses the following source checkouts as Git submodules. Their exact commits
 are recorded by the parent repository; retain the upstream license files.
 
 | Component | Source | License | Use |

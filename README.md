@@ -1,6 +1,8 @@
-# Aperture2
+# Aperture Pi
 
 Личный harness для управления живым Microsoft Excel через [Pi Coding Agent](https://github.com/earendil-works/pi). Чат находится в боковой панели **C# / VSTO**, инструменты работают с открытой книгой и её несохранёнными изменениями. Первый сценарий — анализ и аудит финансовой модели. PowerPoint и Word остаются следующими этапами.
+
+Репозиторий: [vladikMSU/Aperture-Pi](https://github.com/vladikMSU/Aperture-Pi). 2 ноября 2026 года проект переименован из Aperture2 в Aperture Pi. Имена решения, сборок, локальных каталогов и элементов интерфейса пока сохраняют прежние обозначения.
 
 ## Статус
 
